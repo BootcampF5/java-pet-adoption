@@ -1,0 +1,9 @@
+/solutions
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Build directories
+target/
