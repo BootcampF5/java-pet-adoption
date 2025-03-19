@@ -43,4 +43,4 @@ También tu programa deberá poder crear personas, por el momento las caracterí
 
 - Programación orientada a objetos
 - Patrón arquitectónico MVC
-- Patrón de diseño DAO
+- Patrón de diseño Repository
