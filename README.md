@@ -24,9 +24,9 @@ También tu programa deberá poder crear personas, por el momento las caracterí
 
 - Has de crear un modelo de base de datos normalizada.
 - Un perrito puede ser adoptado solo por una persona, pero una persona puede adoptar varios perritos.
-- Has de crear una arquitectura MVC (modelo - vista - controlador) de estilo monolítica, usando el patrón de diseño DAO (data access object)
+- Has de crear una arquitectura MVC (modelo - vista - controlador) de estilo monolítica, usando el patrón de diseño Repository
 - La vista será por terminal
-- Has de usar una base de datos relacional en postgreSQL
+- Has de usar una base de datos relacional en MySQL
 
 ## Requisitos funcionales
 
